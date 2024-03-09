@@ -7,7 +7,6 @@
   <a href="https://github.com/xugaoyi/vuepress-theme-vdoing/actions?query=workflow%3AbaiduPush"><img src="https://github.com/xugaoyi/vuepress-theme-vdoing/workflows/baiduPush/badge.svg" alt="baiduPush"></a>
 </p>
 
-<h2 align="center">vue_Blog</h2>
 ## 快速开始
 使用喜欢的包管理器安装依赖
 ```dtd
